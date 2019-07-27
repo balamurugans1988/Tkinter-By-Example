@@ -6,3 +6,7 @@ label = tk.Label(root, text="Hello World", padx=10, pady=10)
 label.pack()
 
 root.mainloop()
+def new_method():
+	pass
+
+#new mthod for testing
